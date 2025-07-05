@@ -6,4 +6,4 @@
 
 **QR Code:**
 
-![QR_3: Matrix of Learning](Chapter_3_QR.png)
+![QR_3: Matrix of Learning](../QR/Chapter_3_QR.png)

@@ -6,4 +6,4 @@
 
 **QR Code:**
 
-![QR_6: Unseen Constraints](Chapter_6_QR.png)
+![QR_6: Unseen Constraints](../QR/Chapter_6_QR.png)

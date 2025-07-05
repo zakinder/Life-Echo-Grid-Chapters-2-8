@@ -6,4 +6,4 @@
 
 **QR Code:**
 
-![QR_7: Emergence](Chapter_7_QR.png)
+![QR_7: Emergence](../QR/Chapter_7_QR.png)

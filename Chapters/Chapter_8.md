@@ -6,4 +6,4 @@
 
 **QR Code:**
 
-![QR_8: Open Signal](Chapter_8_QR.png)
+![QR_8: Open Signal](../QR/Chapter_8_QR.png)

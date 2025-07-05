@@ -6,4 +6,4 @@
 
 **QR Code:**
 
-![QR_2: Gate of Origin](Chapter_2_QR.png)
+![QR_2: Gate of Origin](../QR/Chapter_2_QR.png)

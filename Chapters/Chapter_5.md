@@ -6,4 +6,4 @@
 
 **QR Code:**
 
-![QR_5: First Deployments](Chapter_5_QR.png)
+![QR_5: First Deployments](../QR/Chapter_5_QR.png)

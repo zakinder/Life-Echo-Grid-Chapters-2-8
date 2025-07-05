@@ -6,4 +6,4 @@
 
 **QR Code:**
 
-![QR_4: Signal Bloom](Chapter_4_QR.png)
+![QR_4: Signal Bloom](../QR/Chapter_4_QR.png)
